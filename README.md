@@ -14,7 +14,7 @@ cite: Yu Su, Huan Sun, Brian Sadler, Mudhakar Srivatsa, Izzeddin Gur¨, Zenghui 
 
 ## KBQA Systems
 
-## Papers about
+## Papers
 (ordered by year)
 
 ### 2020
