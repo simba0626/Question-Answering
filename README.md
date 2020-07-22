@@ -27,6 +27,9 @@ cite: Trivedi, Priyansh and Maheshwari, Gaurav and Dubey, Mohnish and Lehmann, J
 
 ### 2020
 
+1. **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering**
+Abstract: they propose a novel knowledgeaware approach that equips PTLMs with a multi-hop relational reasoning module, named multi-hop graph relation networks (MHGRN).
+
 ### 2019
 
 ### 2018
