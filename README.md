@@ -37,6 +37,11 @@ Abstract: they propose a novel knowledgeaware approach that equips PTLMs with a 
 
 ### 2019
 
+1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**
+[[website](https://dl.acm.org/doi/10.1145/3357384.3358026)]
+[[code](https://github.com/svakulenk0/KBQA]
+Abstract: a novel approach for complex KGQA that uses unsupervised message passing, which propagates confidence scores obtained by parsing an input question and matching terms in the knowledge graph to a set of possible answers. First, identify entity, relationship, and class names mentioned in a natural language question, and map these to their counterparts in the graph. Then, the confidence scores of these mappings propagate through the graph structure to locate the answer entities. Finally, these are aggregated depending on the identified question type.
+
 ### 2018
 
 ### before 2018
