@@ -10,6 +10,10 @@ Contributed by [simba0626](https://github.com/simba0626). Email him (ywsun at sm
 [[website](https://github.com/casnlu/Semantic-Parsing)]  
 cite: Bo Chen.
 
+1. **Question Answering Systems**
+[[website](https://www.mpi-inf.mpg.de/question-answering-systems/)]  
+Lecturer: Dr. Rishiraj Saha Roy
+
 ## Datasets
 
 1. **GraphQuestions**  
