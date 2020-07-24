@@ -39,6 +39,10 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 1. **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering**
 Abstract: they propose a novel knowledgeaware approach that equips PTLMs with a multi-hop relational reasoning module, named multi-hop graph relation networks (MHGRN).
 
+1. **Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings**
+[[website](https://github.com/malllabiisc/EmbedKGQA)]
+Abstract: EmbedKGQA is particularly effective in performing multi-hop KGQA over sparse KGs. EmbedKGQA also relaxes the requirement of answer selection from a prespecified neighborhood, a sub-optimal constraint enforced by previous multi-hop KGQA methods.
+
 ### 2019
 
 1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**
