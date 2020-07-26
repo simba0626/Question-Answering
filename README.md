@@ -55,6 +55,11 @@ cite: in IJCAI
 [[code](https://github.com/svakulenk0/KBQA]  
 Abstract: a novel approach for complex KGQA that uses unsupervised message passing, which propagates confidence scores obtained by parsing an input question and matching terms in the knowledge graph to a set of possible answers. First, identify entity, relationship, and class names mentioned in a natural language question, and map these to their counterparts in the graph. Then, the confidence scores of these mappings propagate through the graph structure to locate the answer entities. Finally, these are aggregated depending on the identified question type.
 
+1. **Stepwise Reasoning for Multi-Relation Question Answering over Knowledge Graph withWeak Supervision (WSDM-long paper)**  
+[[website](https://dl.acm.org/doi/abs/10.1145/3336191.3371812)]  
+Abstract: this paper proposes a neural method based on reinforcement learning, namely Stepwise Reasoning Network, which formulates multirelation question answering as a sequential decision problem.  
+
+
 ### 2018
 
 ### before 2018
