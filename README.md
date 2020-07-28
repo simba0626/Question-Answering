@@ -59,6 +59,7 @@ Abstract: a novel QE method that is more faithful to deductive reasoning, and sh
 Abstract: They investigate state-of-the-art techniques and architectures in order to assess new architectures and techniques' effectiveness in improving compositional generalization in semantic parsing tasks based on the SCAN and CFQ datasets.  
 
 1. **No One is Perfect: Analysing the Performance of Question Answering Components over the DBpedia Knowledge Graph**  
+[[website](https://arxiv.org/abs/1809.10044)]  
 Author: Kuldeep Singh  
 Abstract: They analyse and micro evaluate the behaviour of 29 available QA components for the DBpedia knowledge graph that were released by the research community since 2010.
 
