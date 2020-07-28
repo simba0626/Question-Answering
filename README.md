@@ -10,11 +10,12 @@ Contributed by [simba0626](https://github.com/simba0626). Email him (ywsun at sm
 [[website](https://github.com/casnlu/Semantic-Parsing)]  
 cite: Bo Chen.
 
-1. **Question Answering Systems**
+1. **Question Answering Systems**  
 [[website](https://www.mpi-inf.mpg.de/question-answering-systems/)]  
 Lecturer: Dr. Rishiraj Saha Roy
 
 1. **Question Answering over Curated and Open Web Sources**  
+[[website](https://www.avishekanand.com/talk/sigir20-tute/)]  
 Lecturer: Rishiraj Saha Roy and Avishek Anand  
 Abstract: the tutorial would cover the highlights of this really active period of growth for QA.
 
@@ -44,7 +45,7 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 Abstract: they propose a novel knowledgeaware approach that equips PTLMs with a multi-hop relational reasoning module, named multi-hop graph relation networks (MHGRN).
 
 1. **Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings**  
-[[website](https://github.com/malllabiisc/EmbedKGQA)]
+[[website](https://github.com/malllabiisc/EmbedKGQA)]  
 Abstract: EmbedKGQA is particularly effective in performing multi-hop KGQA over sparse KGs. EmbedKGQA also relaxes the requirement of answer selection from a prespecified neighborhood, a sub-optimal constraint enforced by previous multi-hop KGQA methods.
 
 1. **Domain Adaptation for Semantic Parsing**   
