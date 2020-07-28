@@ -6,9 +6,9 @@ Contributed by [simba0626](https://github.com/simba0626). Email him (ywsun at sm
 
 ## Tutorials or Slides
 
-1. **Semantic Parsing Resources**
+1. **Semantic Parsing Resources**  
 [[website](https://github.com/casnlu/Semantic-Parsing)]  
-cite: Bo Chen.
+cite: Bo Chen
 
 1. **Question Answering Systems**  
 [[website](https://www.mpi-inf.mpg.de/question-answering-systems/)]  
