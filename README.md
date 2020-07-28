@@ -15,7 +15,7 @@ cite: Bo Chen.
 Lecturer: Dr. Rishiraj Saha Roy
 
 1. **Question Answering over Curated and Open Web Sources**  
-Lecturer: Rishiraj Saha Roy and Avishek Anand
+Lecturer: Rishiraj Saha Roy and Avishek Anand  
 Abstract: the tutorial would cover the highlights of this really active period of growth for QA.
 
 ## Datasets
