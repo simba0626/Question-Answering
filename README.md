@@ -31,7 +31,7 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 
 ## KBQA Systems
 
-## Papers
+## KBQA Papers
 (ordered by year)
 
 ### 2020
@@ -45,8 +45,15 @@ Abstract: EmbedKGQA is particularly effective in performing multi-hop KGQA over 
 
 1. **Domain Adaptation for Semantic Parsing**   
 [[website](https://github.com/zechagl/DAMP)]  
-Abstract: Our semantic parser benefits from a two-stage coarse-to-fine framework, thus can provide different and accurate treatments for the two stages, i.e., focusing on domain invariant and domain specific information.
+Abstract: The semantic parser benefits from a two-stage coarse-to-fine framework, thus can provide different and accurate treatments for the two stages, i.e., focusing on domain invariant and domain specific information.
 cite: in IJCAI
+
+1. **Falcon 2.0: An Entity and Relation Linking Tool over Wikidata**   
+[[website](https://labs.tib.eu/falcon/falcon2/)]  
+Abstract: Falcon 2.0 resorts to the English language model for the recognition task (e.g., N-Gram tiling and N-Gram splitting), and then an optimization approach for linking task.  
+
+1. **Faithful Embeddings for Knowledge Base Queries**  
+Abstract: a novel QE method that is more faithful to deductive reasoning, and show and show that this leads to better performance on complex queries to incomplete KBs.
 
 ### 2019
 
