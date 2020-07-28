@@ -14,6 +14,10 @@ cite: Bo Chen.
 [[website](https://www.mpi-inf.mpg.de/question-answering-systems/)]  
 Lecturer: Dr. Rishiraj Saha Roy
 
+1. **Question Answering over Curated and Open Web Sources**  
+Lecturer: Rishiraj Saha Roy and Avishek Anand
+Abstract: the tutorial would cover the highlights of this really active period of growth for QA.
+
 ## Datasets
 
 1. **GraphQuestions**  
