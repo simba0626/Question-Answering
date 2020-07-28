@@ -68,6 +68,11 @@ Abstract: They investigate state-of-the-art techniques and architectures in orde
 Author: Kuldeep Singh  
 Abstract: They analyse and micro evaluate the behaviour of 29 available QA components for the DBpedia knowledge graph that were released by the research community since 2010.
 
+1. **A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges**  
+[[website](https://arxiv.org/abs/2007.13069)]  
+Author: Bin Fu, Yunqi Qiu, Chengguang Tang, Yang Li, Haiyang Yu, Jian Sun  
+Abstract: the author introduce the recent advances in complex QA.
+
 ### 2019
 
 1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**  
