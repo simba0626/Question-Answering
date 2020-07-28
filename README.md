@@ -55,6 +55,13 @@ Abstract: Falcon 2.0 resorts to the English language model for the recognition t
 1. **Faithful Embeddings for Knowledge Base Queries**  
 Abstract: a novel QE method that is more faithful to deductive reasoning, and show and show that this leads to better performance on complex queries to incomplete KBs.
 
+1. **Compositional Generalization in Semantic Parsing: Pre-training vs. Specialized Architectures**   
+Abstract: They investigate state-of-the-art techniques and architectures in order to assess new architectures and techniques' effectiveness in improving compositional generalization in semantic parsing tasks based on the SCAN and CFQ datasets.  
+
+1. **No One is Perfect: Analysing the Performance of Question Answering Components over the DBpedia Knowledge Graph**  
+Author: Kuldeep Singh  
+Abstract: They analyse and micro evaluate the behaviour of 29 available QA components for the DBpedia knowledge graph that were released by the research community since 2010.
+
 ### 2019
 
 1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**  
