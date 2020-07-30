@@ -2,7 +2,7 @@
 
 This repository provides resources for KBQA , including benchmark datasets, papers, tutorials, PhD thesis, and systems.
 
-Contributed by [simba0626](https://github.com/simba0626). Email him (ywsun at smail.nju.edu.cn) if you have any questions.
+Contributed by [simba0626](https://github.com/simba0626). Email him if you have any questions.
 
 ## Tutorials or Slides
 
@@ -40,6 +40,10 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 (ordered by year)
 
 ### 2020
+
+1. **Relationship Search over Knowledge Graphs**  
+Author: Dr. Gong Cheng
+Abstract: the author introduces their recent studies on relationship search, including search algorithms based on novel index structures, methods for relationship clustering to support result exploration, and query relaxation techniques to provide alternative results for failed searches.  
 
 1. **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering**  
 Abstract: they propose a novel knowledgeaware approach that equips PTLMs with a multi-hop relational reasoning module, named multi-hop graph relation networks (MHGRN).
