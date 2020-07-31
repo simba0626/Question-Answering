@@ -72,11 +72,6 @@ Abstract: They investigate state-of-the-art techniques and architectures in orde
 Author: Kuldeep Singh  
 Abstract: They analyse and micro evaluate the behaviour of 29 available QA components for the DBpedia knowledge graph that were released by the research community since 2010.
 
-1. **A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges**  
-[[website](https://arxiv.org/abs/2007.13069)]  
-Author: Bin Fu, Yunqi Qiu, Chengguang Tang, Yang Li, Haiyang Yu, Jian Sun  
-Abstract: the author introduce the recent advances in complex QA.
-
 ### 2019
 
 1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**  
@@ -114,5 +109,51 @@ Abstract: a novel framework enabling schemaless and structureless graph querying
 
 ## PhD thesis
 
+## Survey
+
+1. **A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges (2020 arXiv)**  
+[[website](https://arxiv.org/abs/2007.13069)]  
+Author: Bin Fu, Yunqi Qiu, Chengguang Tang, Yang Li, Haiyang Yu, Jian Sun  
+Abstract: the recent advances in complex QA.
+
+1. **A Survey of Question Answering over Knowledge Base (2019 CCKS)**  
+[[website](https://link.springer.com/chapter/10.1007/978-981-15-1956-7_8)]  
+Author: Peiyun Wu, Xiaowang Zhang, and Zhiyong Feng
+Abstract: a survey of KBQA approaches by classifying them in two categories: semantic parsing and information retrieval.
+
+1. **Deep Learning in Question Answering (LDNLP book chapter 7)**  
+[[website](https://link.springer.com/chapter/10.1007/978-981-10-5209-5_7)]  
+Author: Kang Liu and Yansong Feng  
+Abstract: deep learning in KBQA and deep learning in MRC. The former is information extraction style and semantic parsing style. The latter is feature engineering and deep learning.  
+
+1. **A Survey on Semantic Parsing (2018 arXiv)**  
+[[website](https://arxiv.org/abs/1812.00978)]  
+Author: Aishwarya Kamath, Rajarshi Das  
+Abstract: they examine the various components of a semantic parsing system and discuss prominent work ranging from the initial rule based methods to the current neural approaches to program synthesis.  
+
+1. **Review on the advancements of disambiguation in semantic question answering system (2017 IPM)**  
+[[website](https://www.sciencedirect.com/science/article/abs/pii/S0306457316302102)]  
+Author: Sofian Hazrina  
+Abstract: formulating an SQA conceptual framework based on an in-depth study of existing SQA processes; identifying and highlighting the ambiguity types; analysing the results of the existing SQA disambiguation solutions.  
+
+1. **Survey on Challenges of Question Answering in the Semantic Web (2016 SWJ)**
+[[website](http://www.semantic-web-journal.net/system/files/swj1375.pdf)]  
+Author: Konrad Höffner,  Sebastian Walter, Edgard Marx, Ricardo Usbeck,  Jens Lehmann, Axel-Cyrille Ngonga Ngomo  
+Abstract: the survey analyszes 62 SQA systems.
+
+1. **An introduction to Question Answering over Linked Data (2014 RW)**  
+[[website](https://link.springer.com/chapter/10.1007/978-3-319-10587-1_2)]  
+Author: Christina Unger, André Freitas, Philipp Cimiano  
+Abstract: the paper summarizes the main existing approaches and systems including available tools and resources, benchmarks and evaluation campaigns.  
+
+1. **Evaluating question answering over linked data (2013 JWS)**  
+[[website](https://www.sciencedirect.com/science/article/abs/pii/S157082681300022X)]  
+Author: Vanessa Lopez, Christina Unger, Philipp Cimiano, Enrico Motta  
+Abstract: a series of evaluation challenges for question answering over linked data (QALD).  
+
+1. **Is Question Answering fit for the Semantic Web?: A survey (2011 SWJ)**  
+[[website](http://www.semantic-web-journal.net/content/question-answering-fit-semantic-web-survey]  
+Author: Vanessa Lopez, Victoria Uren, Marta Sabou and Enrico Motta  
+Abstract: a survey on ontology-based Question Answering (QA).
 
 
