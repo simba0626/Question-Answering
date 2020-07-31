@@ -42,7 +42,7 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 ### 2020
 
 1. **Relationship Search over Knowledge Graphs**  
-Author: Dr. Gong Cheng
+Author: Dr. Gong Cheng  
 Abstract: the author introduces their recent studies on relationship search, including search algorithms based on novel index structures, methods for relationship clustering to support result exploration, and query relaxation techniques to provide alternative results for failed searches.  
 
 1. **Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering**  
@@ -88,6 +88,9 @@ Abstract: a novel approach for complex KGQA that uses unsupervised message passi
 [[website](https://dl.acm.org/doi/abs/10.1145/3336191.3371812)]  
 Abstract: this paper proposes a neural method based on reinforcement learning, namely Stepwise Reasoning Network, which formulates multirelation question answering as a sequential decision problem.  
 
+1. **Complex Program Induction for Querying Knowledge Bases in the Absence of Gold Programs (TACL)**  
+[[website](https://www.aclweb.org/anthology/Q19-1012/)]  
+Abstract: They present Complex Imperative Program Induction from Terminal Rewards (CIPITR), an advanced neural programmer that mitigates reward sparsity with auxiliary rewards, and restricts the program space to semantically correct programs using high-level constraints, KB schema, and inferred answer type.  
 
 ### 2018
 
