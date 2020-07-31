@@ -99,12 +99,16 @@ Abstract: They present Complex Imperative Program Induction from Terminal Reward
 Author: Bo Chen, Le Sun, Xianpei Han  
 Abstract: Sequence-to-Action models semantic parsing as an end-to-end semantic graph generation process.  
 
+1. **Embedding Logical Queries on Knowledge Graphs (NIPS)**  
+[[website](https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf)]  
+Author: William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec  
+Abstract: a framework to efficiently make predictions about conjunctive logical queries—a flexible but tractable subset of first-order logic—on incomplete knowledge graphs.
 
 ### before 2018
 
 1. **Schemaless and Structureless Graph Querying (2014-VLDB)**  
 [[website](https://dl.acm.org/doi/abs/10.14778/2732286.2732293)]  
-Author: Shengqi Yang, Yinghui Wu, Huan Sun, Xifeng Yan
+Author: Shengqi Yang, Yinghui Wu, Huan Sun, Xifeng Yan  
 Abstract: a novel framework enabling schemaless and structureless graph querying (SLQ).  
 
 
