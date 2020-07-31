@@ -94,7 +94,19 @@ Abstract: They present Complex Imperative Program Induction from Terminal Reward
 
 ### 2018
 
+1. **Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing (ACL-long paper)**  
+[[website](https://www.aclweb.org/anthology/P18-1071/)]  
+Author: Bo Chen, Le Sun, Xianpei Han  
+Abstract: Sequence-to-Action models semantic parsing as an end-to-end semantic graph generation process.  
+
+
 ### before 2018
+
+1. **Schemaless and Structureless Graph Querying (2014-VLDB)**  
+[[website](https://dl.acm.org/doi/abs/10.14778/2732286.2732293)]  
+Author: Shengqi Yang, Yinghui Wu, Huan Sun, Xifeng Yan
+Abstract: a novel framework enabling schemaless and structureless graph querying (SLQ).  
+
 
 ## PhD thesis
 
