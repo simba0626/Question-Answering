@@ -87,6 +87,9 @@ Abstract: this paper proposes a neural method based on reinforcement learning, n
 [[website](https://www.aclweb.org/anthology/Q19-1012/)]  
 Abstract: They present Complex Imperative Program Induction from Terminal Rewards (CIPITR), an advanced neural programmer that mitigates reward sparsity with auxiliary rewards, and restricts the program space to semantically correct programs using high-level constraints, KB schema, and inferred answer type.  
 
+1. **Neural program induction for KBQA without gold programs or query annotations (IJCAI)**
+Author: Ghulam Ahmed Ansari
+
 ### 2018
 
 1. **Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing (ACL-long paper)**  
@@ -99,17 +102,33 @@ Abstract: Sequence-to-Action models semantic parsing as an end-to-end semantic g
 Author: William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec  
 Abstract: a framework to efficiently make predictions about conjunctive logical queries—a flexible but tractable subset of first-order logic—on incomplete knowledge graphs.
 
+1. **The Web as a Knowledge-base for Answering Complex Questions (NAACL)**  
+Author: Alon Talmor and Jonathan Berant  
+
 ### before 2018
 
-1. **Schemaless and Structureless Graph Querying (2014-VLDB)**  
+1. **Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base (2015 ACL)**  
+Author: Scott Wen-tau Yih
+
+1. **Traversing Knowledge Graphs in Vector Space (2015 EMNLP)**
+Author: Kelvin Guu, John Miller, and Percy Liang
+
+1. **Schemaless and Structureless Graph Querying (2014 VLDB)**  
 [[website](https://dl.acm.org/doi/abs/10.14778/2732286.2732293)]  
 Author: Shengqi Yang, Yinghui Wu, Huan Sun, Xifeng Yan  
 Abstract: a novel framework enabling schemaless and structureless graph querying (SLQ).  
 
+1. **Semantic Parsing on Freebase from Question-Answer Pairs (2013 EMNLP)**  
+Author: J. Berant
 
 ## PhD thesis
 
 ## Survey
+
+1. **Interpretable Complex Question Answering (2020 WWW)**  
+[[website](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380764)]  
+Author: Soumen Chakrabarti  
+Abstract: review cross-community co-evolution of QA with the advent of large-scale knowledge graphs (KGs).
 
 1. **A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges (2020 arXiv)**  
 [[website](https://arxiv.org/abs/2007.13069)]  
@@ -136,7 +155,7 @@ Abstract: they examine the various components of a semantic parsing system and d
 Author: Sofian Hazrina  
 Abstract: formulating an SQA conceptual framework based on an in-depth study of existing SQA processes; identifying and highlighting the ambiguity types; analysing the results of the existing SQA disambiguation solutions.  
 
-1. **Survey on Challenges of Question Answering in the Semantic Web (2016 SWJ)**
+1. **Survey on Challenges of Question Answering in the Semantic Web (2016 SWJ)**  
 [[website](http://www.semantic-web-journal.net/system/files/swj1375.pdf)]  
 Author: Konrad Höffner,  Sebastian Walter, Edgard Marx, Ricardo Usbeck,  Jens Lehmann, Axel-Cyrille Ngonga Ngomo  
 Abstract: the survey analyszes 62 SQA systems.
@@ -152,7 +171,7 @@ Author: Vanessa Lopez, Christina Unger, Philipp Cimiano, Enrico Motta
 Abstract: a series of evaluation challenges for question answering over linked data (QALD).  
 
 1. **Is Question Answering fit for the Semantic Web?: A survey (2011 SWJ)**  
-[[website](http://www.semantic-web-journal.net/content/question-answering-fit-semantic-web-survey]  
+[[website](http://www.semantic-web-journal.net/content/question-answering-fit-semantic-web-survey)]  
 Author: Vanessa Lopez, Victoria Uren, Marta Sabou and Enrico Motta  
 Abstract: a survey on ontology-based Question Answering (QA).
 
