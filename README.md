@@ -36,6 +36,19 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 
 ## KBQA Systems
 
+
+## Question Decomposition Papers
+
+1. **Unsupervised Question Decomposition for Question Answering (Facebook AI)**  
+[[website](https://arxiv.org/pdf/2002.09758.pdf)]  
+Author: Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho, Douwe Kiela  
+Abstract: an unsupervised approach to produce sub-questions.  
+
+1. **Processing knowledge graph-based complex questions through question decomposition and recomposition (Information Sciences 2020)**  
+[[website](https://www.sciencedirect.com/science/article/pii/S002002552030150X)]  
+Author: Sangjin Shin, Kyond-Ho Lee.  
+Abstract: a novel QA method that first decomposes an input question and then generates a correct query graph with fully complete semantics.  
+
 ## KBQA Papers
 (ordered by year)
 
