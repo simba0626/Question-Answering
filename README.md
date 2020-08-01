@@ -39,7 +39,7 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 
 ## Question Decomposition Papers
 
-1. **Unsupervised Question Decomposition for Question Answering (Facebook AI)**  
+1. **Unsupervised Question Decomposition for Question Answering (Facebook AI 2020)**  
 [[website](https://arxiv.org/pdf/2002.09758.pdf)]  
 Author: Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho, Douwe Kiela  
 Abstract: an unsupervised approach to produce sub-questions.  
@@ -48,6 +48,12 @@ Abstract: an unsupervised approach to produce sub-questions.
 [[website](https://www.sciencedirect.com/science/article/pii/S002002552030150X)]  
 Author: Sangjin Shin, Kyond-Ho Lee.  
 Abstract: a novel QA method that first decomposes an input question and then generates a correct query graph with fully complete semantics.  
+
+1. **Multi-hop Reading Comprehension through Question Decomposition and Rescoring (2019 ACL Long Paper)**  
+[[website](https://www.aclweb.org/anthology/P19-1613/)]  
+Author: Sewon Min, Victor Zhong, Luke Zettlemoyer, Hannaneh Hajishirzi  
+Abstract: a system for multi-hop RC that decomposes a compositional question into simpler sub-questions that can be answered by off-the-shelf single-hop RC models.  
+
 
 ## KBQA Papers
 (ordered by year)
