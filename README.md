@@ -6,6 +6,10 @@ Contributed by [simba0626](https://github.com/simba0626). Email him if you have 
 
 ## Tutorials or Slides
 
+1. **Semanitc Parsing slides**  
+[[website](https://github.com/scottyih/Slides)]  
+Lecturer: scottyih  
+
 1. **Semantic Parsing Resources**  
 [[website](https://github.com/casnlu/Semantic-Parsing)]  
 cite: Bo Chen
