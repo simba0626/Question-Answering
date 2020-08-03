@@ -25,6 +25,10 @@ Abstract: the tutorial would cover the highlights of this really active period o
 
 ## Datasets
 
+1. **MSParS (V1.0)**  
+[[website](https://github.com/JunweiBao/MSParS)]  
+Abstract: a Multi-perspective Semantic ParSing Dataset  
+
 1. **GraphQuestions**  
 [[website](https://github.com/ysu1989/GraphQuestions)]  
 cite: Yu Su, Huan Sun, Brian Sadler, Mudhakar Srivatsa, Izzeddin Gur¨, Zenghui Yan, Xifeng Yan. 2016. On Generating Characteristic-rich Question Sets for QA Evaluation. In EMNLP.
