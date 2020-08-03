@@ -134,6 +134,10 @@ Author: Alon Talmor and Jonathan Berant
 
 ### before 2018
 
+1. **MulCQA (2016 COLING)**  
+[[website](https://github.com/JunweiBao/MulCQA)]  
+Author: Junwei Bao  
+
 1. **Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base (2015 ACL)**  
 Author: Scott Wen-tau Yih
 
