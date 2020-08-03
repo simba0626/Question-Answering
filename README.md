@@ -68,6 +68,11 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 
 ### 2020
 
+1. **The Value of Paraphrase for Knowledge Base Predicates**  
+[[website](https://github.com/pkumod/Paraphrase)]  
+Author: Bingcong Xue, Sen Hu, Lei Zou, Jiashu Cheng
+Abstract: a full process of collecting large-scale and high-quality paraphrase dictionaries for predicates in knowledge bases.  
+
 1. **Relationship Search over Knowledge Graphs**  
 Author: Dr. Gong Cheng  
 Abstract: the author introduces their recent studies on relationship search, including search algorithms based on novel index structures, methods for relationship clustering to support result exploration, and query relaxation techniques to provide alternative results for failed searches.  
