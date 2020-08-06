@@ -23,6 +23,11 @@ Lecturer: Dr. Rishiraj Saha Roy
 Lecturer: Rishiraj Saha Roy and Avishek Anand  
 Abstract: the tutorial would cover the highlights of this really active period of growth for QA.
 
+1. **Question Answering**  
+[[website](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)]  
+cite: Xanh Ho
+
+
 ## Datasets
 
 1. **MSParS (V1.0)**  
@@ -42,7 +47,8 @@ cite: Trivedi, Priyansh and Maheshwari, Gaurav and Dubey, Mohnish and Lehmann, J
 Title: KQA Pro: A Large Diagnostic Dataset for Complex Question Answering over Knowledge Base  
 Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questions, SPARQLs, and functional programs with recursive templates and then paraphrase the questions by crowdsourcing, giving rise to around 120K diverse instances; They contribute a unified codebase and conduct extensive evaluations for baselines and state-of-the-arts.
 
-## KBQA Systems
+## QA over knowledge base and text Papers
+
 
 
 ## Question Decomposition Papers
