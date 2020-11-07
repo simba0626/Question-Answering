@@ -75,7 +75,13 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 ### 2020
 
 1. **Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning (EMNLP)**  
-Author: Yuncheng Huay, Yuan-Fang Li
+Author: Yuncheng Hua, Yuan-Fang Li et al.. 
+
+1. **Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning (IJCAI)**  
+Author: Yuncheng Hua, Yuan-Fang Li et al.. 
+
+1. **Less is more: Data-efficient complex question answering over knowledge bases (JWS) **
+Author: Yuncheng Hua, Yuan-Fang Li et al.. 
 
 1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs  (ISWC)**  
 Author: Debayan Banerjee, Debanjan Chaudhuri, Mohnish Dubey, and Jens Lehmann
