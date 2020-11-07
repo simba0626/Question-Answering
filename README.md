@@ -74,6 +74,9 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 
 ### 2020
 
+1. **Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning (EMNLP)**  
+Author: Yuncheng Huay, Yuan-Fang Li
+
 1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs  (ISWC)**  
 Author: Debayan Banerjee, Debanjan Chaudhuri, Mohnish Dubey, and Jens Lehmann
 
