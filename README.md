@@ -74,6 +74,15 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 
 ### 2020
 
+1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs  (ISWC)**  
+Author: Debayan Banerjee, Debanjan Chaudhuri, Mohnish Dubey, and Jens Lehmann
+
+1. **Leveraging Semantic Parsing for Relation Linking over Knowledge Bases (ISWC)**  
+Author: Nandana Mihindukulasooriya. et al..  
+
+1. **Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning**  
+Author: Yuncheng Hua1, Yuan-Fang Li, Gholamreza Haffari, Guilin Qi1, and Wei Wu
+
 1. **The Value of Paraphrase for Knowledge Base Predicates**  
 [[website](https://github.com/pkumod/Paraphrase)]  
 Author: Bingcong Xue, Sen Hu, Lei Zou, Jiashu Cheng
