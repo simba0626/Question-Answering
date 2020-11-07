@@ -80,7 +80,7 @@ Author: Yuncheng Hua, Yuan-Fang Li et al..
 1. **Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning (IJCAI)**  
 Author: Yuncheng Hua, Yuan-Fang Li et al.. 
 
-1. **Less is more: Data-efficient complex question answering over knowledge bases (JWS) **
+1. **Less is more: Data-efficient complex question answering over knowledge bases (JWS) **  
 Author: Yuncheng Hua, Yuan-Fang Li et al.. 
 
 1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs  (ISWC)**  
