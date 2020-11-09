@@ -49,6 +49,10 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 
 ## QA over knowledge base and text Papers
 
+## Compositional generalization
+
+1. ** Compositional Generalization by Learning Analytical Expressions **  
+Author: Qian Liu, Shengnan An, ...
 
 
 ## Question Decomposition Papers
@@ -83,7 +87,7 @@ Author: Yuncheng Hua, Yuan-Fang Li et al..
 1. **Less is more: Data-efficient complex question answering over knowledge bases (JWS) **  
 Author: Yuncheng Hua, Yuan-Fang Li et al.. 
 
-1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs  (ISWC)**  
+1. **PNEL: Pointer Network Based End-To-End Entity Linking over Knowledge Graphs (ISWC)**  
 Author: Debayan Banerjee, Debanjan Chaudhuri, Mohnish Dubey, and Jens Lehmann
 
 1. **Leveraging Semantic Parsing for Relation Linking over Knowledge Bases (ISWC)**  
