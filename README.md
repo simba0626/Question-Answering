@@ -203,6 +203,11 @@ Abstract: review cross-community co-evolution of QA with the advent of large-sca
 Author: Bin Fu, Yunqi Qiu, Chengguang Tang, Yang Li, Haiyang Yu, Jian Sun  
 Abstract: the recent advances in complex QA.
 
+1. **Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs (2019)**  
+[[website](https://arxiv.org/abs/1907.09361)]  
+Author: Nilesh Chakraborty, Denis Lukovnikov, Gaurav Maheshwariy, Priyansh Trivediy, Jens Lehmannz, Asja Fischer  
+Abstract: an overview over recent advancements, focusing on neural network based KBQA.  
+
 1. **A Survey of Question Answering over Knowledge Base (2019 CCKS)**  
 [[website](https://link.springer.com/chapter/10.1007/978-981-15-1956-7_8)]  
 Author: Peiyun Wu, Xiaowang Zhang, and Zhiyong Feng
