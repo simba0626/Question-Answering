@@ -134,6 +134,10 @@ Abstract: They analyse and micro evaluate the behaviour of 29 available QA compo
 
 ### 2019
 
+1. **Question Answering in Knowledge Bases: A Verification Assisted Model with Iterative Training (TOIS)**  
+[[website](https://dl.acm.org/doi/abs/10.1145/3345557)]  
+Author: RiChong Zhang, Yue Wang, ...
+
 1. **Message Passing for Complex Question Answering over Knowledge Graphs (CIKM-long paper)**  
 [[website](https://dl.acm.org/doi/10.1145/3357384.3358026)]  
 [[code](https://github.com/svakulenk0/KBQA]  
