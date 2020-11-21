@@ -51,7 +51,7 @@ Abstract: KQA Pro, a large-scale dataset for Complex KBQA. They generate questio
 
 ## Compositional generalization
 
-1. ** Compositional Generalization by Learning Analytical Expressions **  
+1. **Compositional Generalization by Learning Analytical Expressions**  
 Author: Qian Liu, Shengnan An, ...
 
 
@@ -188,6 +188,27 @@ Abstract: a novel framework enabling schemaless and structureless graph querying
 
 1. **Semantic Parsing on Freebase from Question-Answer Pairs (2013 EMNLP)**  
 Author: J. Berant
+
+
+## Simple KBQA
+
+1. **PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems (2020 WSDM)**  
+
+1. **Pretrained Transformers for Simple Question Answering over Knowledge Graphs (2019 ISWC)**  
+
+1. **Knowledge Graph Embedding Based Question Answering (2019 WSDM)**  
+Author: Xiao Huang, Jingyuan Zhang, Dingcheng Li, Ping Li
+
+1. **SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach (2018 NAACL)**  
+Author: Michael Petrochuk, Luke Zettlemoyer
+
+1. **Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level (2017 WWW)**  
+Author: Denis Lukovnikov 
+
+1. **CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases (2016 ACL)**  
+
+1. **Large-scale Simple Question Answering with Memory Networks (2016 arXiv)**  
+Author: Antoine Bordes
 
 ## PhD thesis
 
