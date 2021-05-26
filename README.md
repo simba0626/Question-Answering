@@ -79,7 +79,7 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 
 ### 2021
 
-1. **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals (WSDM)**
+1. **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals (WSDM)**  
 Author: Gaole He, Yunshi Lan, Jing Jiang, Xin Zhao, Ji-Rong Wen
 
 
@@ -220,6 +220,12 @@ Author: Antoine Bordes
 ## PhD thesis
 
 ## Survey
+
+
+1. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions**  
+[[website](https://arxiv.org/abs/2105.11644)]  
+Author: Yunshi Lan, Gaole He, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen  
+Abstract: summarize the typical challenges and solutions for complex KBQA.
 
 1. **Interpretable Complex Question Answering (2020 WWW)**  
 [[website](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380764)]  
