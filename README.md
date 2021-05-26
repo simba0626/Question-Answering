@@ -76,6 +76,13 @@ Abstract: a system for multi-hop RC that decomposes a compositional question int
 ## KBQA Papers
 (ordered by year)
 
+
+### 2021
+
+1. **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals (WSDM)**
+Author: Gaole He, Yunshi Lan, Jing Jiang, Xin Zhao, Ji-Rong Wen
+
+
 ### 2020
 
 1. **Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning (EMNLP)**  
