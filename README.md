@@ -27,6 +27,9 @@ Abstract: the tutorial would cover the highlights of this really active period o
 [[website](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)]  
 cite: Xanh Ho
 
+1. **KBQA paper**  
+[[website](https://github.com/cdhx/KBQA-paper)]
+cite: cdhx
 
 ## Datasets
 
@@ -221,8 +224,12 @@ Author: Antoine Bordes
 
 ## Survey
 
+1. **Complex Knowledge Base Question Answering: A Survey (2021 arxiv)**  
+[[website] (https://arxiv.org/abs/2108.06688)]
+Author: Yunshi Lan, Gaole He, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen
+Abstract: review recent advances on KBQA with the focus on solving complex questions.
 
-1. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions**  
+1. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions (2021 IJCAI)**  
 [[website](https://arxiv.org/abs/2105.11644)]  
 Author: Yunshi Lan, Gaole He, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao, Ji-Rong Wen  
 Abstract: summarize the typical challenges and solutions for complex KBQA.
