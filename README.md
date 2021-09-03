@@ -31,6 +31,10 @@ cite: Xanh Ho
 [[website](https://github.com/cdhx/KBQA-paper)]  
 cite: cdhx
 
+1. **Knowledge Graph Question Answering**  
+[[website](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Question%20Answering%20(KGQA).md)]  
+cite: heathersherry
+
 ## Datasets
 
 1. **MSParS (V1.0)**  
